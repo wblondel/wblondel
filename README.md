@@ -34,7 +34,7 @@
 <!--<a href="https://www.codechef.com/users/wblondel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/codechef.svg" alt="wblondel" height="30" width="40" /></a>-->
 <a href="https://www.leetcode.com/wblondel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wblondel" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@wblondel" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/240px-HackerEarth_logo.png" alt="@wblondel" height="30" width="30" /></a>
-<a href="/https://williamblondel.fr/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://williamblondel.fr/rss.xml" height="30" width="40" /></a>
+<a href="https://williamblondel.fr/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://williamblondel.fr/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
